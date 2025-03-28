@@ -1,0 +1,4 @@
+thesis.*
+!thesis.tex
+!thesis.pdf
+*/*.aux
