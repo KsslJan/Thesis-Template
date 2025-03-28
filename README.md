@@ -30,7 +30,7 @@ GitHub ist eine Verwaltungsplattform (ursprünglich für Code), bietet aber auch
 - Änderungen können "committed" werden, um Unterschiede zur letzten Version anzuzeigen.
 - Über Visual Studio Code können die Änderungen auf den Server (GitHub Repository) "gepusht" werden.
 
-![Git Window VS Code](README/README_GIT.png)
+![Git Window VS Code](README/README_Git.png)
 
 ---
 
