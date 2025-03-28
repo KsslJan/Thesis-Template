@@ -34,8 +34,14 @@ GitHub ist eine Verwaltungsplattform (ursprünglich für Code), bietet aber auch
 
 ---
 
-## PDF erstellen
+## Latex-PDF erstellen
 
 - Einfach "Strg + S" drücken oder im TeX-Tab die Option `Recipe: latexmk` ausführen.
 
-![Build Tool](README/README.png)
+![Build Tool](README/README_Pdf_Build.png)
+
+## Hinzufügen von LaTeX Profile in VS Code
+
+Datei Latex.code-profile muss ggf in VS Code importiert und ausgewählt werden, damit sollten alle Extensions und Einstellungen in VS Code automatisch durchlaufen.
+
+![LaTeX Profile VS Code](README/README_Profile.png)
