@@ -19,7 +19,7 @@ Der Download dauert ca. 1 Stunde und 10 Minuten.
 GitHub ist eine Verwaltungsplattform (ursprünglich für Code), bietet aber auch nützliche Features für LaTeX.
 
 1. Einen Account auf GitHub erstellen.
-2. Auf Clone klicken unter https://github.com/KsslJan/Thesis-Template klicken, um das Verzeichnis abzuzweigen.
+2. Auf Clone unter https://github.com/KsslJan/Thesis-Template klicken, um das Verzeichnis abzuzweigen.
 3. In einer Konsole im gewünschten Verzeichnis den Befehl ausführen:  
    `git clone <URL zu dem Repository>`
 
