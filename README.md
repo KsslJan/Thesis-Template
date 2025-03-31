@@ -1,4 +1,4 @@
-# Programme zur lokalen Ausführung
+<img width="329" alt="image" src="https://github.com/user-attachments/assets/afc9efbe-4828-4ee2-8c83-1f6bd0c81256" /># Programme zur lokalen Ausführung
 
 ## Voraussetzungen
 
@@ -12,7 +12,7 @@ Der Download dauert ca. 1 Stunde und 10 Minuten.
 ### Visual Studio Code
 [Download Visual Studio Code](https://code.visualstudio.com/download)
 
----
+# Nutzung und Ausführung der Programme
 
 ## Erklärung: Git + GitHub
 
@@ -45,3 +45,12 @@ GitHub ist eine Verwaltungsplattform (ursprünglich für Code), bietet aber auch
 Datei Latex.code-profile muss ggf in VS Code importiert und ausgewählt werden, damit sollten alle Extensions und Einstellungen in VS Code automatisch durchlaufen.
 
 ![LaTeX Profile VS Code](README/README_Profile.png)
+
+# Hilfreiche Tipps
+
+## Nutzung von Copilot
+Über Copilot lässt sich sehr gut und zuverlässig die Grammatik und Rechtschreibung prüfen, indem man in "Copilot Edits" folgenden Prompt nutzt:
+
+> Prüfe Rechtschreibung und Grammatik.
+
+Es werden damit Änderungsvorschläge für die aktuell geöffnete Datei angezeigt.
