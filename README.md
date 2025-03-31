@@ -1,4 +1,4 @@
-<img width="329" alt="image" src="https://github.com/user-attachments/assets/afc9efbe-4828-4ee2-8c83-1f6bd0c81256" /># Programme zur lokalen Ausführung
+# Programme zur lokalen Ausführung
 
 ## Voraussetzungen
 
