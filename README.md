@@ -54,3 +54,6 @@ Datei Latex.code-profile muss ggf in VS Code importiert und ausgewählt werden, 
 > Prüfe Rechtschreibung und Grammatik.
 
 Es werden damit Änderungsvorschläge für die aktuell geöffnete Datei angezeigt.
+
+### Update:
+Es ist mittlerweile der "Agent" mode auch draußen, womit sich ganze Dateien erstellen und verknüpfen lassen. 
